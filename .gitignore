@@ -1,0 +1,44 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.venv*/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Gradio
+.gradio/
+
+# ChromaDB vector database
+chroma_store/
+
+# Machine learning generated models
+models/
+
+# Temporary uploaded transactions
+data/_current_upload.csv
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Code editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db

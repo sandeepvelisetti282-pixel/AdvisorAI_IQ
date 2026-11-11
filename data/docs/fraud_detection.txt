@@ -1,0 +1,182 @@
+FRAUD DETECTION – FINANCIAL TRANSACTION SECURITY KNOWLEDGE BASE
+
+1. INTRODUCTION TO FINANCIAL FRAUD
+
+Financial fraud involves illegal or deceptive activities intended to obtain money, financial information, or other benefits.
+
+Fraud can occur through:
+- Unauthorized bank transactions
+- Credit card fraud
+- Identity theft
+- Phishing attacks
+- Account takeover
+- Fake payment requests
+- Suspicious online transactions
+
+Financial institutions use transaction monitoring systems and machine learning models to identify potentially fraudulent activities.
+
+2. COMMON TYPES OF FINANCIAL FRAUD
+
+Credit Card Fraud:
+Unauthorized use of another person's credit card information to make purchases.
+
+Identity Theft:
+Using another person's personal information without permission to conduct financial activities.
+
+Phishing:
+Fraudulent emails, websites, or messages designed to steal passwords, banking credentials, or personal information.
+
+Account Takeover:
+An attacker gains unauthorized access to a customer's financial account.
+
+Transaction Fraud:
+A financial transaction performed through unauthorized or deceptive activity.
+
+3. COMMON FRAUD INDICATORS
+
+The following characteristics may indicate suspicious transactions:
+
+- Unusually large transaction amounts.
+- Multiple transactions within a short period.
+- Transactions from unfamiliar locations.
+- Unusual transaction timing.
+- Sudden changes in customer spending behavior.
+- Repeated failed payment attempts.
+- Transactions involving suspicious merchants.
+- Multiple transactions using unusual device information.
+
+Important: A single unusual characteristic does not prove fraud. Multiple factors and customer context should be considered.
+
+4. TRANSACTION MONITORING
+
+Transaction monitoring is the process of examining financial transactions to identify suspicious patterns.
+
+Important transaction features include:
+
+Transaction Amount:
+The amount of money transferred or spent.
+
+Transaction Frequency:
+The number of transactions performed within a particular period.
+
+Transaction Time:
+The time at which the transaction occurred.
+
+Transaction Location:
+The geographical location associated with the transaction.
+
+Merchant Category:
+The type of business receiving the payment.
+
+Customer Spending Pattern:
+The customer's historical financial activity.
+
+5. RULE-BASED FRAUD DETECTION
+
+Rule-based systems use predefined conditions to identify potentially suspicious transactions.
+
+Example rules:
+
+Rule 1:
+If transaction_amount exceeds a predefined threshold, flag the transaction for review.
+
+Rule 2:
+If multiple transactions occur within a very short period, investigate the activity.
+
+Rule 3:
+If a transaction occurs from an unusual location, perform additional verification.
+
+Rule 4:
+If repeated payment failures occur, flag the account for further investigation.
+
+These rules should be configurable and should not automatically classify every flagged transaction as fraud.
+
+6. MACHINE LEARNING FOR FRAUD DETECTION
+
+Machine learning can identify patterns in historical transaction data.
+
+Common algorithms include:
+
+Logistic Regression:
+A classification algorithm that estimates the probability of a transaction belonging to a particular class.
+
+Decision Tree:
+A model that makes predictions using a sequence of decision rules.
+
+Random Forest:
+An ensemble learning algorithm that combines multiple decision trees to improve prediction performance.
+
+Isolation Forest:
+An anomaly detection algorithm that identifies observations that differ significantly from normal patterns.
+
+7. FRAUD DETECTION DATASET FEATURES
+
+A transaction dataset may contain:
+
+- transaction_id
+- transaction_amount
+- transaction_type
+- transaction_hour
+- transaction_frequency
+- customer_age
+- merchant_category
+- location_risk
+- previous_transaction_count
+- is_fraud
+
+The is_fraud column is the target label in a supervised binary classification dataset.
+
+Possible labels:
+0 = Legitimate transaction
+1 = Fraudulent transaction
+
+These labels must be based on reliable historical data, not arbitrary assumptions.
+
+8. MODEL EVALUATION METRICS
+
+Accuracy:
+The percentage of correctly classified transactions.
+
+Precision:
+The percentage of transactions predicted as fraud that are actually fraudulent.
+
+Recall:
+The percentage of actual fraudulent transactions correctly identified.
+
+F1 Score:
+The harmonic mean of precision and recall.
+
+Formula:
+
+F1 = 2 × (Precision × Recall) / (Precision + Recall)
+
+In fraud detection, recall is important because missing fraudulent transactions can result in financial losses. However, precision is also important because excessive false alarms can inconvenience customers.
+
+9. FALSE POSITIVES AND FALSE NEGATIVES
+
+False Positive:
+A legitimate transaction incorrectly classified as fraudulent.
+
+False Negative:
+A fraudulent transaction incorrectly classified as legitimate.
+
+True Positive:
+A fraudulent transaction correctly identified.
+
+True Negative:
+A legitimate transaction correctly identified.
+
+10. FRAUD PREVENTION BEST PRACTICES
+
+- Use strong passwords.
+- Enable multi-factor authentication.
+- Never share OTPs or banking credentials.
+- Monitor bank statements regularly.
+- Avoid suspicious payment links.
+- Verify unexpected payment requests.
+- Report unauthorized transactions immediately.
+- Use transaction alerts.
+
+11. DISCLAIMER
+
+Machine learning predictions are risk indicators, not proof of criminal activity. Financial institutions should use appropriate human review, customer verification, and regulatory procedures before taking action.

@@ -1,0 +1,36 @@
+
+# LangChain and AI Agents
+langchain
+langchain-core
+langchain-community==0.3.31
+langchain-google-genai
+
+# Google Gemini
+google-generativeai
+
+# RAG and Vector Database
+chromadb
+langchain-chroma
+langchain-text-splitters
+
+# Machine Learning - Transaction Checker
+scikit-learn
+pandas
+numpy
+joblib
+
+# Environment Variables
+python-dotenv
+
+# UI - Gradio
+gradio
+
+# LangSmith - Monitoring
+langsmith
+
+# RAGAS Evaluation
+ragas
+datasets
+
+# Financial Market Data
+yfinance

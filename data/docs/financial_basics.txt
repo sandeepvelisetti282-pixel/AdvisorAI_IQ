@@ -1,0 +1,144 @@
+FINANCIAL BASICS – PERSONAL FINANCE KNOWLEDGE BASE
+
+1. INTRODUCTION TO FINANCIAL PLANNING
+
+Financial planning is the process of managing income, expenses, savings, investments, and financial goals. It helps individuals make informed decisions about their money and achieve financial stability.
+
+The main components of financial planning include:
+- Income management
+- Expense tracking
+- Budget preparation
+- Emergency savings
+- Debt management
+- Investment planning
+- Retirement planning
+
+2. INCOME AND EXPENSES
+
+Income is the money received from employment, business, investments, or other sources.
+
+Expenses are the costs incurred for daily living, including:
+- Rent
+- Food
+- Transportation
+- Education
+- Healthcare
+- Entertainment
+- Utility bills
+
+Understanding the difference between income and expenses helps individuals identify their savings potential.
+
+Savings = Total Income - Total Expenses.
+
+3. THE 50/30/20 BUDGETING RULE
+
+The 50/30/20 budgeting rule is a simple method for managing monthly income.
+
+- 50% for Needs: Housing, groceries, transportation, utilities, and essential healthcare.
+- 30% for Wants: Entertainment, shopping, dining out, and vacations.
+- 20% for Savings and Debt Repayment: Emergency funds, investments, and outstanding debt.
+
+This is a general guideline. Individuals can adjust the percentages according to their financial circumstances.
+
+4. EMERGENCY FUND
+
+An emergency fund is money reserved for unexpected financial situations.
+
+Examples include:
+- Medical emergencies
+- Job loss
+- Unexpected home repairs
+- Vehicle repairs
+- Urgent family expenses
+
+A commonly suggested target is three to six months of essential living expenses. The appropriate amount depends on income stability, family responsibilities, and personal circumstances.
+
+5. SIMPLE INTEREST
+
+Simple interest is calculated only on the original principal amount.
+
+Formula:
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+Where:
+- Principal = Initial amount invested or borrowed.
+- Rate = Annual interest rate.
+- Time = Duration in years.
+
+Example:
+
+If someone deposits ₹10,000 at 5% annual simple interest for 2 years:
+
+SI = (10,000 × 5 × 2) / 100
+SI = ₹1,000
+
+Total Amount = ₹11,000.
+
+6. COMPOUND INTEREST
+
+Compound interest is calculated on the principal amount and accumulated interest.
+
+Formula:
+
+A = P(1 + r/n)^(nt)
+
+Where:
+- A = Final amount
+- P = Principal
+- r = Annual interest rate in decimal
+- n = Number of compounding periods per year
+- t = Time in years
+
+Compound interest allows investments to grow over time because interest is earned on previously accumulated interest.
+
+7. DEBT MANAGEMENT
+
+Debt management involves planning and controlling borrowed money.
+
+Common types of debt:
+- Personal loans
+- Education loans
+- Home loans
+- Vehicle loans
+- Credit card debt
+
+Two popular debt repayment strategies:
+
+Debt Snowball:
+Pay off the smallest outstanding balance first while making minimum payments on other debts.
+
+Debt Avalanche:
+Pay off the debt with the highest interest rate first while maintaining minimum payments on other debts.
+
+The avalanche method can reduce total interest costs when other conditions are equal.
+
+8. FINANCIAL RISK MANAGEMENT
+
+Financial risk management identifies and reduces potential financial losses.
+
+Important practices:
+- Maintain emergency savings.
+- Avoid unnecessary borrowing.
+- Diversify investments.
+- Review financial goals regularly.
+- Understand investment risks before investing.
+- Protect personal financial information.
+
+9. IMPORTANT FINANCIAL TERMS
+
+Asset: Something that has economic value.
+
+Liability: A financial obligation or debt.
+
+Net Worth: Total Assets - Total Liabilities.
+
+Liquidity: How quickly an asset can be converted into cash without significant loss of value.
+
+Inflation: A general increase in the prices of goods and services over time.
+
+ROI: Return on Investment, a measure of investment profitability.
+
+10. DISCLAIMER
+
+This document provides general financial education. It is not personalized financial, tax, legal, or investment advice. Individuals should consider their financial circumstances and consult qualified professionals before making important financial decisions.
